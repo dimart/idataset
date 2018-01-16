@@ -1,0 +1,22 @@
+<annotation>
+    <folder>flickr_iot-thing-dataset_72157687930616092 copy</folder>
+    <filename>img_2092_26965834959_o.jpg</filename>
+    <size>
+        <width>3264</width>
+        <height>2448</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>iot2000</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1756</xmin>
+            <ymin>996</ymin>
+            <xmax>2208</xmax>
+            <ymax>1348</ymax>
+        </bndbox>
+    </object>
+</annotation>

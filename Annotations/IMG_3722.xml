@@ -1,0 +1,22 @@
+<annotation>
+    <folder>images</folder>
+    <filename>IMG_3722.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>528</xmin>
+            <ymin>1173</ymin>
+            <xmax>2190</xmax>
+            <ymax>3298</ymax>
+        </bndbox>
+    </object>
+</annotation>
