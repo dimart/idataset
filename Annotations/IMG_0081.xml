@@ -1,0 +1,22 @@
+<annotation>
+    <folder>part3</folder>
+    <filename>IMG_0081.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>629</xmin>
+            <ymin>860</ymin>
+            <xmax>1758</xmax>
+            <ymax>2516</ymax>
+        </bndbox>
+    </object>
+</annotation>

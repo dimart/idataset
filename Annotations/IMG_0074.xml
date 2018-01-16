@@ -1,9 +1,9 @@
 <annotation>
-    <folder>images</folder>
-    <filename>IMG_3392.jpg</filename>
+    <folder>part3</folder>
+    <filename>IMG_0074.jpg</filename>
     <size>
-        <width>3024</width>
-        <height>4032</height>
+        <width>4032</width>
+        <height>3024</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -13,10 +13,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>314</xmin>
-            <ymin>1660</ymin>
-            <xmax>2376</xmax>
-            <ymax>4032</ymax>
+            <xmin>540</xmin>
+            <ymin>823</ymin>
+            <xmax>1570</xmax>
+            <ymax>2257</ymax>
         </bndbox>
     </object>
 </annotation>
