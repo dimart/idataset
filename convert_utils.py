@@ -30,7 +30,6 @@ def xml_to_groupped_df(xml_examples, label_map_dict):
                 continue
             xml_list.append(value)
 
-    print("Only ", len(xml_list), " will be saved.")
     column_name = ['filename', 'width', 'height', 'class', 'xmin', 'ymin', 'xmax', 'ymax']
     xml_df = pd.DataFrame(xml_list, columns=column_name)
 
