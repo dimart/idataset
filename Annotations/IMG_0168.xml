@@ -1,0 +1,34 @@
+<annotation>
+    <folder>part3</folder>
+    <filename>IMG_0168.jpg</filename>
+    <size>
+        <width>4032</width>
+        <height>3024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1822</xmin>
+            <ymin>1939</ymin>
+            <xmax>2805</xmax>
+            <ymax>2667</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>396</xmin>
+            <ymin>1874</ymin>
+            <xmax>1434</xmax>
+            <ymax>2591</ymax>
+        </bndbox>
+    </object>
+</annotation>

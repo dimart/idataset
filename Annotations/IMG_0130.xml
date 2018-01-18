@@ -1,0 +1,34 @@
+<annotation>
+    <folder>part3</folder>
+    <filename>IMG_0130.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>173</xmin>
+            <ymin>1116</ymin>
+            <xmax>850</xmax>
+            <ymax>2105</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>853</xmin>
+            <ymin>2063</ymin>
+            <xmax>1542</xmax>
+            <ymax>3118</ymax>
+        </bndbox>
+    </object>
+</annotation>

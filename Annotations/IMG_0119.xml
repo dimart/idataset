@@ -1,0 +1,34 @@
+<annotation>
+    <folder>part3</folder>
+    <filename>IMG_0119.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1468</xmin>
+            <ymin>2291</ymin>
+            <xmax>2406</xmax>
+            <ymax>3712</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>158</xmin>
+            <ymin>971</ymin>
+            <xmax>1225</xmax>
+            <ymax>2543</ymax>
+        </bndbox>
+    </object>
+</annotation>
