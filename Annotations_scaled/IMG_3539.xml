@@ -1,0 +1,22 @@
+<annotation>
+    <folder>dataset_check</folder>
+    <filename>IMG_3539.jpg</filename>
+    <size>
+        <width>500</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>228</xmin>
+            <ymin>65</ymin>
+            <xmax>424</xmax>
+            <ymax>279</ymax>
+        </bndbox>
+    </object>
+</annotation>

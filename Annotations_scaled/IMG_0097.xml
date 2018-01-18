@@ -1,0 +1,34 @@
+<annotation>
+    <folder>part3</folder>
+    <filename>IMG_0097.jpg</filename>
+    <size>
+        <width>500</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>348</xmin>
+            <ymin>178</ymin>
+            <xmax>420</xmax>
+            <ymax>282</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>337</xmin>
+            <ymin>45</ymin>
+            <xmax>444</xmax>
+            <ymax>120</ymax>
+        </bndbox>
+    </object>
+</annotation>

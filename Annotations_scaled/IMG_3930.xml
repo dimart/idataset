@@ -1,0 +1,22 @@
+<annotation>
+    <folder>dataset_check</folder>
+    <filename>IMG_3930.jpg</filename>
+    <size>
+        <width>500</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>164</xmin>
+            <ymin>119</ymin>
+            <xmax>409</xmax>
+            <ymax>273</ymax>
+        </bndbox>
+    </object>
+</annotation>
