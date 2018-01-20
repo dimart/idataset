@@ -1,0 +1,22 @@
+<annotation>
+    <folder>part4</folder>
+    <filename>photo4_29.jpg</filename>
+    <size>
+        <width>4032</width>
+        <height>3024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1101</xmin>
+            <ymin>345</ymin>
+            <xmax>2792</xmax>
+            <ymax>1343</ymax>
+        </bndbox>
+    </object>
+</annotation>

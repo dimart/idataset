@@ -1,0 +1,34 @@
+<annotation>
+    <folder>part4</folder>
+    <filename>photo4_57.jpg</filename>
+    <size>
+        <width>3120</width>
+        <height>4160</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>90</xmin>
+            <ymin>2489</ymin>
+            <xmax>1088</xmax>
+            <ymax>3229</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1376</xmin>
+            <ymin>1663</ymin>
+            <xmax>2347</xmax>
+            <ymax>2517</ymax>
+        </bndbox>
+    </object>
+</annotation>
