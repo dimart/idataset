@@ -1,5 +1,5 @@
 <annotation>
-    <folder>dataset_check</folder>
+    <folder>images</folder>
     <filename>IMG_3476.jpg</filename>
     <size>
         <width>500</width>
@@ -13,10 +13,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>138</xmin>
-            <ymin>103</ymin>
-            <xmax>390</xmax>
-            <ymax>295</ymax>
+            <xmin>110</xmin>
+            <ymin>82</ymin>
+            <xmax>362</xmax>
+            <ymax>273</ymax>
         </bndbox>
     </object>
 </annotation>
