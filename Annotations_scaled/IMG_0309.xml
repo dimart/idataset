@@ -1,0 +1,22 @@
+<annotation>
+    <folder>part5_dark</folder>
+    <filename>IMG_0309.jpg</filename>
+    <size>
+        <width>281</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>8</xmin>
+            <ymin>100</ymin>
+            <xmax>124</xmax>
+            <ymax>221</ymax>
+        </bndbox>
+    </object>
+</annotation>

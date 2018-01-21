@@ -1,0 +1,34 @@
+<annotation>
+    <folder>part5_dark</folder>
+    <filename>IMG_0250.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1708</xmin>
+            <ymin>1960</ymin>
+            <xmax>2348</xmax>
+            <ymax>2856</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>device</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1002</xmin>
+            <ymin>492</ymin>
+            <xmax>1988</xmax>
+            <ymax>1499</ymax>
+        </bndbox>
+    </object>
+</annotation>

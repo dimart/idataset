@@ -1,5 +1,5 @@
 <annotation>
-    <folder>images</folder>
+    <folder>Images_scaled</folder>
     <filename>IMG_3481.jpg</filename>
     <size>
         <width>500</width>
@@ -13,10 +13,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>108</xmin>
-            <ymin>104</ymin>
-            <xmax>340</xmax>
-            <ymax>308</ymax>
+            <xmin>161</xmin>
+            <ymin>68</ymin>
+            <xmax>393</xmax>
+            <ymax>272</ymax>
         </bndbox>
     </object>
 </annotation>
